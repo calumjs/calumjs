@@ -1,15 +1,27 @@
-[![Stats](https://github-readme-stats.vercel.app/api?username=calumjs&theme=dark)](https://github.com/calumjs/github-readme-stats)
-<!--
-**calumjs/calumjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub at a Glance
 
-Here are some ideas to get you started:
+<!-- Profile Summary Card -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=calumjs&theme=github_dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧮 Stats & Languages
+
+<p float="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=calumjs&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=calumjs&theme=github_dark" width="49%" />
+</p>
+
+---
+
+## 🏆 Trophies (because why not)
+
+![](https://github-profile-trophy.vercel.app/?username=calumjs&theme=darkhub&no-frame=true&margin-w=10)
+
+---
+
+## ⏱️ Productivity Patterns
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=calumjs&theme=github_dark&utcOffset=10)
+
+---
